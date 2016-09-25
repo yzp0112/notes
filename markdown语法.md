@@ -14,6 +14,7 @@ HTML 已经很容易写了。Markdown 的理念是，能让文档更容易读、
 标签。
 ```
 > 例子如下，在 Markdown 文件里加上一段 HTML 表格：
+
 ```HTML
 这是一个普通段落。
 <table>
